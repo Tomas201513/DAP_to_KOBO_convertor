@@ -3,7 +3,7 @@ This script aim to ease the process of coding the KOBO XLSX form from DAP that l
 
 |     Question         |   Answers                     |           
 |----------------------|-------------------------------|
-| What is your gender? |  Male                         |         
+| What is your gender? |  "Male                         |         
 |                      |  Female                       |      
 |                      |  I don't want to answer"      |
 |------------------------------------------------------|
